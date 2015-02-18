@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM001: Principles Of Human Communication"
+course_description: "An introduction to the human communication concentration in the communications major. This course will introduce you to communication principles, common communication practices, and a selection of theories to better understand the communication transactions that you experience in your daily life."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Group Communication** <span id="3"></span> 
 *You apply the principles of interpersonal communication in many
 settings in your daily life.  A common setting is while working in small

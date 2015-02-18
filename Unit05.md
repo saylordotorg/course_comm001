@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM001: Principles Of Human Communication"
+course_description: "An introduction to the human communication concentration in the communications major. This course will introduce you to communication principles, common communication practices, and a selection of theories to better understand the communication transactions that you experience in your daily life."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Mass Communication** <span id="5"></span> 
 *In this unit, you will explore the concept and theories of mass
 communication.  This unit will explore the application of mass
